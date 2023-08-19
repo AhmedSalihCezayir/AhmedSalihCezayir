@@ -18,17 +18,16 @@
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="cplusplus" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="express" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="cplusplus" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="express" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Neo4j" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" style="padding-right:10px;" />
-<img align="left" alt="firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="gcp" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img align="left" alt="pytorch" width="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-<img align="left" alt="tensorflow" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="gcp" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="pytorch" width="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="tensorflow" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="padding-right:10px;" />
 
 <br />
 <br />
