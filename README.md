@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineer</h4>
 
 - I am a Software Engineer who is passionate about frontend, backend, and cloud technologies.
-- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently Researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
+- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently working as Researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
 - 📑 Right now, I’m working on **ways to enhance code reviews**.
 - 🌱 I’m currently learning Django.
 - 📫 How to reach me: 
