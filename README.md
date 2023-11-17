@@ -4,7 +4,7 @@
 - I am a Software Engineer who is passionate about frontend, backend, and cloud technologies.
 - <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently working as Researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
 - 📑 Right now, I’m working on **ways to enhance code reviews**.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning design patterns.
 - 📫 How to reach me: 
 <a href="https://linkedin.com/in/asalihcezayir" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" /></a>
 
